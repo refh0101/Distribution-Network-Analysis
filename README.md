@@ -21,12 +21,21 @@ Expanding and upgrading the grid is expensive; investment must be optimized.
 Distribution Network Analysis helps evaluate how well the grid can handle growing EV demand. As EV usage rises, this analysis becomes critical.
 Top 5 Reasons Why This Project Matters
 
-## Customer Retention — Reliable EV charging keeps customers satisfied.
-## Revenue Growth — EVs create new electricity demand and business opportunities.
-## Sustainability — Supports reduction of greenhouse gas emissions.
-## Regulatory Compliance — Ensures grid performance meets required standards.
-## Technological Innovation — Encourages modern, data‑driven decision‑making.
 
+#### Customer Retention
+- Reliable EV charging keeps customers satisfied and loyal.
+
+#### Revenue Growth
+- EV adoption increases electricity demand and creates new business opportunities.
+
+#### Sustainability
+- Supports the reduction of greenhouse gas emissions and promotes clean energy use.
+
+#### Regulatory Compliance
+- Ensures the grid meets required reliability and performance standards.
+
+#### Technological Innovation
+- Encourages the use of modern, data‑driven tools to improve operations and planning.
 
 # 🎯 Project Objectives
 A. Assess Network Capacity
