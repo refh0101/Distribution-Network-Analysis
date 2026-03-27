@@ -38,11 +38,13 @@ Top 5 Reasons Why This Project Matters
 - Encourages the use of modern, data‑driven tools to improve operations and planning.
 
 # 🎯 Project Objectives
-A. Assess Network Capacity
+#### Assess Network Capacity
 Evaluate whether the current grid can support EV charging demand.
-B. Identify Bottlenecks
+
+#### Identify Bottlenecks
 Locate weaknesses or overloaded areas in the network.
-C. Optimize Network Upgrades
+
+#### Optimize Network Upgrades
 Recommend cost‑effective improvements using data insights.
 
 # 📊 Data Description
